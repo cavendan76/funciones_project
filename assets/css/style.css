@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans';
+  font-size: 16px;  
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+div {
+  margin: 10px auto;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+#a {
+  background-color: yellow;
+}
+
+#b {
+  background-color: blue;
+}
+
+#c {
+  background-color: red;
+}
+
+#d {
+  background-color: green;
+}
+
+#key {
+  background-color: aliceblue;
+}
+
+#key1 {
+  background-color: aliceblue;
+}
+
+#texto {
+width: 100%;
+text-align: center;
+}
